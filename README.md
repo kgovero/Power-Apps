@@ -28,3 +28,6 @@ No configuration is needed to use this sample.  All data are stored locally in t
 Download the .msapp and open using "..." > Open within the Power Apps Studio.
 
 Note: The animations may not display correctly in the Studio Editor  For the timer/animations to work properly, Publish and Play the app.
+
+![Power Farkle 1](https://github.com/user-attachments/assets/6dd4f4f9-1d9e-4160-823c-77ca0892f3de)
+
