@@ -6,11 +6,10 @@ I was inspired by other Power App makers to create a game in Power Apps so I set
 
 This app was a great way to learn some concepts in Power Apps like:
 
-- Using Named Formulas feature (App > Formulas)
+- Using Named Formulas feature (App > Formulas); - Power Fx Formulas
 - Working with collections and galleries
 - Using timers for animation
 - Adding configurable score settings
-- Power Fx Formulas
 
 <b>Here's some ideas of what you can do next ... What other ideas can you think of? </b>
 <li>
